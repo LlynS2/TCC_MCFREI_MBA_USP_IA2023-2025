@@ -74,15 +74,15 @@
       </tr>
       <tr>
         <td>🏫 院校</td>
-        <td>圣保罗大学（University of São Paulo – USP）</td>
+        <td>圣保罗大学（ University of São Paulo – USP ）</td>
       </tr>
       <tr>
         <td>🏫 校区</td>
-        <td>USP/ESALQ（PECEGE）</td>
+        <td>USP/ESALQ（ PECEGE ）</td>
       </tr>
       <tr>
         <td>🎓 指导教师</td>
-        <td>Adirson Maciel de Freitas Junior 教授</td>
+        <td>Prof. Dr.Adirson Maciel de Freitas Junior</td>
       </tr>
     </tbody>
    </table>
