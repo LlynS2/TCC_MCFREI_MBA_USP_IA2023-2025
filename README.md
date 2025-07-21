@@ -3,6 +3,8 @@
 </div><br>
 <div align="center">
   <h1>Strategic AI: Financial Impacts, Corporate Growth, and the New Challenges of Business Leadership</h1>
+  <img src="https://github.com/user-attachments/assets/351977a5-6997-4f4f-afee-be34690b6f3b" width="1534" height="859" >
+</div>
 <div align="center">
    <p>
       <div align="center">
