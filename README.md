@@ -24,7 +24,7 @@ Por meio da aplicação de Regressão Linear Múltipla, o projeto revela padrõe
 </p>
 </div><br>
 <div align="left">
-   <h3>👉 Metodologia</h3>
+   <h3>📌 Metodologia</h3>
 <p>
    
    > Coleta de dados de fontes públicas e relatórios financeiros (2020–2024)<br>
@@ -39,7 +39,7 @@ Por meio da aplicação de Regressão Linear Múltipla, o projeto revela padrõe
 </p>
 </div><br>
 <div align="left">
-   <h3>👉 Destaque dos Resultados</h3>
+   <h3>📌 Destaque dos Resultados</h3>
 <p>
    
    > O setor financeiro apresentou os `impactos mais expressivos` da IA, especialmente no ROI.<br>
