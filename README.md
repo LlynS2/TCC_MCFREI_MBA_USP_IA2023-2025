@@ -12,7 +12,7 @@ Um conteúdo que pode ajudar líderes, gestores, investidores e desenvolvedores 
 </p>
 </div>
 <h2></h2>
- <h3 align="Center" >O que você vai encontrar aqui ? ✍</h3>
+ <h3 align="Center" >O que você vai encontrar aqui ✍</h3>
 <h2></h2><br>
 <div align="left">
 <p>
