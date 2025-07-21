@@ -32,7 +32,7 @@ Through the application of Multiple Linear Regression, the project reveals patte
    
    > Data collection from public sources and financial reports (2020–2024)<br>
    
-   > Organization into a relational database (PostgreSQL)<br>
+   > Organization into a relational database ( PostgreSQL )<br>
    
    > Statistical modeling using Python (`pandas`, `statsmodels`, `matplotlib`)<br>
    
@@ -70,7 +70,7 @@ Through the application of Multiple Linear Regression, the project reveals patte
       </tr>
       <tr>
         <td>🧠 Author</td>
-        <td>Hevellyn Machado de Freitas (Mc’Frei)</td>
+        <td>Hevellyn Machado de Freitas ( Mc’Frei )</td>
       </tr>
       <tr>
         <td>🏫 Institution</td>
@@ -78,7 +78,7 @@ Through the application of Multiple Linear Regression, the project reveals patte
       </tr>
       <tr>
         <td>🏫 Campus</td>
-        <td>USP/ESALQ (PECEGE)</td>
+        <td>USP/ESALQ ( PECEGE )</td>
       </tr>
       <tr>
         <td>🎓 Advisor</td>
