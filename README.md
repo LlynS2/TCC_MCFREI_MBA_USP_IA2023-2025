@@ -27,7 +27,7 @@ Mediante la aplicación de la Regresión Lineal Múltiple, el proyecto revela pa
 </div><br>
 
 <div align="left">
-   <h3>👉 Metodología</h3>
+   <h3>📌 Metodología</h3>
 <p>
    
    > Recopilación de datos de fuentes públicas e informes financieros (2020–2024)<br>
@@ -43,7 +43,7 @@ Mediante la aplicación de la Regresión Lineal Múltiple, el proyecto revela pa
 </div><br>
 
 <div align="left">
-   <h3>👉 Principales Resultados</h3>
+   <h3>📌 Principales Resultados</h3>
 <p>
    
    > El sector financiero presentó los `impactos más expresivos` de la IA, especialmente en el ROI.<br>
