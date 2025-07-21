@@ -27,7 +27,7 @@ Through the application of Multiple Linear Regression, the project reveals patte
 </div><br>
 
 <div align="left">
-   <h3>👉 Methodology</h3>
+   <h3>📌 Methodology</h3>
 <p>
    
    > Data collection from public sources and financial reports (2020–2024)<br>
@@ -43,7 +43,7 @@ Through the application of Multiple Linear Regression, the project reveals patte
 </div><br>
 
 <div align="left">
-   <h3>👉 Key Findings</h3>
+   <h3>📌 Key Findings</h3>
 <p>
    
    > The financial sector showed the `most significant impacts` of AI, especially in ROI.<br>
