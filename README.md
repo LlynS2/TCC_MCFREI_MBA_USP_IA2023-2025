@@ -69,6 +69,10 @@ Mediante la aplicación de la Regresión Lineal Múltiple, el proyecto revela pa
         <td>IA Estratégica: Impactos Financieros, Crecimiento Corporativo y los Nuevos Desafíos del Liderazgo Empresarial</td>
       </tr>
       <tr>
+        <td>🧠 DOI</td>
+        <td>https://doi.org/10.5281/zenodo.16582723</td>
+      </tr>
+      <tr>
         <td>🧠 Autora</td>
         <td>Hevellyn Machado de Freitas (Mc’Frei)</td>
       </tr>
