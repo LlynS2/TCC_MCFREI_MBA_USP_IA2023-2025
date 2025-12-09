@@ -69,6 +69,10 @@ Through the application of Multiple Linear Regression, the project reveals patte
         <td>Strategic AI: Financial Impacts, Corporate Growth, and the New Challenges of Business Leadership</td>
       </tr>
       <tr>
+        <td>🧠 DOI</td>
+        <td>https://doi.org/10.5281/zenodo.16582723</td>
+      </tr>
+      <tr>
         <td>🧠 Author</td>
         <td>Hevellyn Machado de Freitas ( Mc’Frei )</td>
       </tr>
