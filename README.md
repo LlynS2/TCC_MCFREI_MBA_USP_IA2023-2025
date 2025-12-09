@@ -75,6 +75,10 @@ AI를 도입한 기업과 도입하지 않은 기업의 데이터를 비교하�
         <td>전략적 인공지능: 재무적 영향, 기업 성장 및 경영 리더십의 새로운 과제</td>
       </tr>
       <tr>
+        <td>🧠 DOI</td>
+        <td>https://doi.org/10.5281/zenodo.16582723</td>
+      </tr>
+      <tr>
         <td>🧠 저자</td>
         <td>Hevellyn Machado de Freitas ( Mc’Frei )</td>
       </tr>
