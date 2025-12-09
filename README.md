@@ -69,6 +69,10 @@
         <td>战略性人工智能：财务影响、企业增长与领导力的新挑战</td>
       </tr>
       <tr>
+        <td>🧠 DOI</td>
+        <td>https://doi.org/10.5281/zenodo.16582723</td>
+      </tr>
+      <tr>
         <td>🧠 作者</td>
         <td>Hevellyn Machado de Freitas（Mc’Frei）</td>
       </tr>
